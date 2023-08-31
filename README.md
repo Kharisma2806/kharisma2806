@@ -17,6 +17,10 @@ Here's to embracing what lies ahead with excitement and a whole lot of code! �
 
 3rd project, Furr-ever Friends (pet adoption app): https://splendid-haupia-ff5f9e.netlify.app/ 
 
+![HTML](https://example.com/path-to-html-image.png) ![CSS](https://example.com/path-to-css-image.png) ![JavaScript]![HTML](https://example.com/path-to-html-image.png) ![CSS](https://example.com/path-to-css-image.png) ![JavaScript](https://example.com/path-to-js-image.png)
+)
+
+
 
 <!--
 **Kharisma2806/kharisma2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
