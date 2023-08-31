@@ -20,9 +20,7 @@ Here's to embracing what lies ahead with excitement and a whole lot of code! üç
 
 <h2>Tech stack used:</h2>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="HTML" width="50" height="50">
-<img src="https://example.com/css-icon.png" alt="CSS" width="50" height="50">
-<img src="https://example.com/js-icon.png" alt="JavaScript" width="50" height="50">
+JavaScript (ES6) | Node.js | Express.js | React | HTML | CSS | MongoDB | VS Code | Socket.io | Cloudinary
 
 
 
