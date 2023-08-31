@@ -9,7 +9,7 @@ The past six months have been a wild ride. I've been soaking up knowledge like a
 Thanks for swinging by my profile! Feel free to dig into the repositories and projects highlighted below to see the coding journey I've been on. 
 Here's to embracing what lies ahead with excitement and a whole lot of code! üçª
 
-<h1>Projects:</h1>
+<h2>Projects:</h2>
 
 1st project, Skydrop: https://skydrop-chickengame-761b8f.netlify.app/
 
@@ -17,8 +17,13 @@ Here's to embracing what lies ahead with excitement and a whole lot of code! üç
 
 3rd project, Furr-ever Friends (pet adoption app): https://splendid-haupia-ff5f9e.netlify.app/ 
 
-![HTML](https://example.com/path-to-html-image.png) ![CSS](https://example.com/path-to-css-image.png) ![JavaScript]![HTML](https://example.com/path-to-html-image.png) ![CSS](https://example.com/path-to-css-image.png) ![JavaScript](https://example.com/path-to-js-image.png)
-)
+
+<h2>Tech stack used:</h2>
+
+<img src="[https://example.com/html-icon.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" alt="HTML" width="50" height="50">
+<img src="https://example.com/css-icon.png" alt="CSS" width="50" height="50">
+<img src="https://example.com/js-icon.png" alt="JavaScript" width="50" height="50">
+
 
 
 
