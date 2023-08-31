@@ -1,3 +1,4 @@
+<h1>About me</h1>
 
 Hey there, welcome to my GitHub profile! I'm a full stack developer with a bit of a twist — I actually started out in sales.
 
@@ -8,8 +9,13 @@ The past six months have been a wild ride. I've been soaking up knowledge like a
 Thanks for swinging by my profile! Feel free to dig into the repositories and projects highlighted below to see the coding journey I've been on. 
 Here's to embracing what lies ahead with excitement and a whole lot of code! 🍻
 
+<h1>Projects:</h1>
 
+1st project, Skydrop: https://skydrop-chickengame-761b8f.netlify.app/
 
+2nd project, Foodcore app (avoid foodwaste): https://panicky-trunks-lion.cyclic.app/
+
+3rd project, Furr-ever Friends (pet adoption app): https://splendid-haupia-ff5f9e.netlify.app/ 
 
 
 <!--
