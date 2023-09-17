@@ -4,7 +4,7 @@ Hey there, welcome to my GitHub profile! I'm a full stack developer with a bit o
 
 I've been around the IT block for most of my career but never working with codes. I've always had this curiousity to understand how products/apps gets built. So, I finally decided to take the plunge and jumped into learning web development at Ironhack bootcamp, which covers the most up-to-date latest materials in web dev.
 
-The past six months have been a wild ride. I've been soaking up knowledge like a sponge, getting my hands dirty with personal projects and team collaborations. It's safe to say that I've gathered a ton of skills that have me all set and geared up for the next big thing—diving headfirst into the developer world full time.
+The 6 months during the bootcamp has been a wild ride. I've been soaking up knowledge like a sponge, getting my hands dirty with personal projects and team collaborations. It's safe to say that I've gathered a ton of skills that have me all set and geared up for the next big thing—diving headfirst into the developer world full time.
 
 Thanks for swinging by my profile! Feel free to dig into the repositories and projects highlighted below to see the coding journey I've been on. 
 Here's to embracing what lies ahead with excitement and a whole lot of code! 🍻
